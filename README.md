@@ -5,7 +5,7 @@
 **Universiti Teknologi Malaysia (UTM)**
 
 ## 📋 Project Overview
-The **Autism Early Screening Support System (AESS)** is a centralized, technology-driven solution designed to streamline the screening process, enhance accessibility, and provide reliable, data-driven insights. The system addresses the fragmented, resource-intensive nature of traditional screening which often leads to late diagnoses.
+The **Autism Early Screening Support System (AESS)** is a centralized, technology-driven solution designed to streamline the screening process, enhance accessibility, and provide reliable, data-driven insights. The system addresses the fragmented, resource-intensive nature of traditional screening which often leads to late diagnoses. The system will be great for lecturers.
 
 ## 📅 Phase 1: Project Proposal & Planning
 | Task | Description | Deliverables |
